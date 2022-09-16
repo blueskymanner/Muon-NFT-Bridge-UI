@@ -11,3 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Working Demo
 A working demo can be found at https://nft-bridge.muon.net. Connect your wallet and happy bridging!
+
+
+Muon NFT bridge contract is deployed on rinkeby network.
+Contract address is https://rinkeby.etherscan.io/address/0x355dc1826a7e401cd17eb184fbb751c94c773873
